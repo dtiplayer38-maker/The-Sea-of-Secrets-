@@ -1,0 +1,6 @@
+{
+  "name": "The Sea of Secrets",
+  "description": "An interactive sea adventure and story game application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
